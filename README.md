@@ -1,7 +1,7 @@
 # BibMat
 
 ## Se vor implementa funcții de operare cu tablouri uni- și bidimensionale. Atenție! Toate operatiile vor fi vizualizate grafic în timp ce se desfășoară.
-Exemple de operații:
+## Exemple de operații:
 ### citire de la tastatură sau din fișiere;
 ### afișare pe ecran sau în fișiere;
 ### adunare, scădere, înmulțire, împărțire, ridicare la putere matrice;
